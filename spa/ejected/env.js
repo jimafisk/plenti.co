@@ -1,1 +1,1 @@
-export let env = { local: false, baseurl: '/plenti.co/'};
+export let env = { local: false, baseurl: '/'};
