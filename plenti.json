@@ -1,6 +1,6 @@
 {
 	"routes": {
-		"pages": "/:filename"
+		"pages": ":filename"
 	},
 	"build": "public",
 	"local": {
