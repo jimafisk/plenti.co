@@ -1256,7 +1256,7 @@ const allContent = [{
 
 },{
 "pager": 1,
-"path": "/about",
+"path": "about",
 "type": "pages",
 "filename": "about.json",
 "fields": {
@@ -1272,7 +1272,7 @@ const allContent = [{
 }
 },{
 "pager": 1,
-"path": "/contact",
+"path": "contact",
 "type": "pages",
 "filename": "contact.json",
 "fields": {
@@ -1285,7 +1285,7 @@ const allContent = [{
 }
 },{
 "pager": 1,
-"path": "/download",
+"path": "download",
 "type": "pages",
 "filename": "download.json",
 "fields": {
@@ -1312,7 +1312,7 @@ const allContent = [{
 
 },{
 "pager": 1,
-"path": "/themes",
+"path": "themes",
 "type": "pages",
 "filename": "themes.json",
 "fields": {
