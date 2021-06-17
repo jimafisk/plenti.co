@@ -1166,7 +1166,7 @@ const allContent = [{
 "filename": "index.json",
 "fields": {
 	"intro": {
-		"title": "Websites that are easier<br />for <span class='text-accent-dark'>everyone</span>.",
+		"title": "This is a <br />for <span class='text-accent-dark'>development</span> version of the website.",
 		"body": "Is your \"site builder\" confusing editors and frustrating devs? Time to try tools designed specifically for your area of focus.",
 		"cta": [
 			{
