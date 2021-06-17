@@ -2,7 +2,6 @@
 	"routes": {
 		"pages": "/:filename"
 	},
-  "baseurl": "/plenti.co/",
 	"build": "public",
 	"local": {
 		"port": 3000
